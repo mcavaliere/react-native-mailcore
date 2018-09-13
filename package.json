@@ -1,6 +1,6 @@
 {
   "name": "react-native-mailcore",
-  "version": "java-add-from-and-to-headers",
+  "version": "0.0.4-java-add-from-and-to-headers",
   "description": "React Native bindings for https://github.com/MailCore/mailcore2",
   "main": "index.js",
   "directories": {
